@@ -5,7 +5,7 @@ class HomeImcPage extends StatelessWidget {
   const HomeImcPage({super.key});
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context) 
     ValueNotifier<String> displayImc = ValueNotifier<String>('');
     int heigth = 0;
     int weigth = 0;
