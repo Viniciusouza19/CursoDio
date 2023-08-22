@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "51ab48dcdbcba32384608cbf71f9d6f583b84757882f47ac7d89ecf0ba68feaf"
+build_start_time: [1692665476, 144898000]
+build_end_time: [1692665476, 175328000]
+inputs:
+  "/Users/vinicius.nascimento/Desktop/flutters app/imc_calculator/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1692665472, 422174704]
+  "/Users/vinicius.nascimento/Desktop/flutters app/imc_calculator/macos/Runner/AppDelegate.swift": !private [1691681069, 486037615]
+  "/Users/vinicius.nascimento/Desktop/flutters app/imc_calculator/macos/Runner/MainFlutterWindow.swift": !private [1691681069, 487230532]
